@@ -8,7 +8,7 @@ import datetime
 import sys
 
 HOST = "0.0.0.0"
-PORT = 5566
+PORT = 80
 
 
 class PluginHandler:
